@@ -1,0 +1,4 @@
+- Task: Image classification <br>
+- Model: Resnet50
+- Metric: F1-score
+- Result: 0.98831
